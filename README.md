@@ -1,6 +1,7 @@
 data structure created by cons cell.
 
 ## list
+循環なし
 - [x] 先頭取得
 - [x] 後方取得
 - [x] 先頭追加
@@ -11,11 +12,12 @@ data structure created by cons cell.
 - [x] key検索(assoc)
 
 ## 双方向list
-- [ ] nth
-- [ ] nth_delete
-- [ ] nth_insert
-- [ ] nth_next
-- [ ] nth_prev
+循環なし
+- [ ] get_val
+- [ ] set_val
+- [ ] next
+- [ ] prev
+- [ ] get_nth
 
 ## hashmap
 - [ ] get
